@@ -1,0 +1,6 @@
+Repeatability for point1is0.0545612
+    cameraMatrix.at<double>(0,0) = 1;
+    cameraMatrix.at<double>(0,2) = 5.8296249187484258e-34;
+    cameraMatrix.at<double>(1,1) = 1;
+    cameraMatrix.at<double>(1,2) = 5.1909118747138228e-34;
+
